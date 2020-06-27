@@ -21,5 +21,7 @@ exports.yourfolder:showCompass()
 
 exports.yourfolder:hideCompass()
 
+- There is a custom crosshair available in the HTML file, you need to uncomment a LINE to enable.
+
 # Known Issues
 - Not sure if the location-hashes I have are complete or entirely correct. 
