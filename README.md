@@ -16,6 +16,7 @@ Custom HUD for REDM including WIND DIRECTION + LOCATION and COMPASS removing the
 
 # Available Exports
 - Call these exports at your desired places ( ex. on player death | while in a menu )
+
 exports.yourfolder:showCompass()
 
 exports.yourfolder:hideCompass()
