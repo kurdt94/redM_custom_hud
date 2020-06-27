@@ -7,8 +7,8 @@ Custom HUD for REDM including WIND DIRECTION + LOCATION and COMPASS removing the
 - Showing Wind Direction
 - Showing Health and Stamina bar 
 - Removing entire Rockstar HUD !
-  -Also removes weapon dial ( so you need to find a way around this one (ex. using inventory) )
-  -Also removes certain ingame-alerts ( you killed 10 enemys .. etc. )
+- This also removes weapon dial ( so you need to find a way around this one (ex. using inventory) )
+- This also removes certain ingame-alerts ( you killed 10 enemys .. etc. )
 
 # Installation
 - Create a new folder within RESOURCES and name it to your liking
