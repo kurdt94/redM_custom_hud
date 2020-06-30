@@ -26,3 +26,7 @@ exports.yourfolder:hideCompass()
 # Known Issues
 - Not sure if the location-hashes I have are complete or entirely correct.
 - Works for [1920 x 1080 Resolution], anything lower can break layout.
+
+# @TODO or not @TODO
+- Enable Crosshair when player is using BOW
+- Add Config for usability
