@@ -1,5 +1,5 @@
 # redM_custom_hud
-Custom HUD for REDM including WIND DIRECTION, LOCATION and COMPASS removing the CROSSHAIR 
+REDM: custom HUD, including WIND DIRECTION, LOCATION and COMPASS removing the CROSSHAIR 
 ( feel free to adjust my files to your liking )
 
 - SVG compass showing N, E, S, W
